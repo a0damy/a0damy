@@ -14,7 +14,7 @@ I employ a combination of tools to retrieve, manipulate and present data effecti
 [HR Analytics](https://project.novypro.com/6zVS11)<br>
 [Sales Dashboard](https://www.novypro.com/project/pablo-stores-sales-data-analysis)
 
-👀 I am seeking opportunities to collaborate on projects focusing on data analysis and visualization to gain practical experience and enhance my skill set
+👀 I am seeking opportunities to collaborate on a data innovative adventure
 
 ## 💎 My Values
 - Grit
