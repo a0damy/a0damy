@@ -24,7 +24,7 @@ I employ a combination of tools to retrieve, manipulate and present data effecti
 
 ## Find me around the web🌍 
 
-[LinkedIn](https://www.linkedin.com/in/damilola-adeniyi-orunko-2672368a)<br>
+[LinkedIn](https://www.linkedin.com/in/damilola-adeniyi-orunko)<br>
 [Email](damilola.adeniyiorunko@gmail.com)<br>
 [Website](https://bit.ly/daorunko)
 
